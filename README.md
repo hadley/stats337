@@ -132,6 +132,9 @@ The development of much of this course has been driven by conversations on twitt
 * [Academic job search advice](http://matt.might.net/articles/advice-for-academic-job-hunt/);
   Matt Might (????).
 
+* [Importance of sponsorship](https://robinsones.github.io/The-Importance-of-Sponsorship/);
+  Emily Robinson (2018).
+
 * [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/);
   Caitlin Hudon (2018).
 
