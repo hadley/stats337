@@ -1,18 +1,16 @@
 # Stats 337: Readings in Applied Data Science
 
-[Stats 337](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=stats+337&collapse=%2C2%2C) is a small discussion class available to Stanford students in Spring 2018. In this class you will read 3-4 papers (or equivalent) per week, write a brief response, and then we'll discuss the papers (and related ideas) in class.
+[Stats 337](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=stats+337&collapse=%2C2%2C) is a small discussion class available to Stanford students in Spring 2018. Student in this class will read 3-4 papers (or equivalent) per week, write a brief response, and then discuss the papers (and related ideas) in class.
 
 ## Readings
 
-These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated. It is not a systematic attempt to survey the field. That said, if you think there's something major that I've missed, please feel free to submit [an issue](https://github.com/hadley/stats337/issues) or [pull request](https://github.com/hadley/stats337/edit/master/README.md)!). It's likely that these readings will evolve as the quarter goes by. 
+These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated. It is not a systematic attempt to survey the field. That said, if you think there's something major that I've missed, please feel free to submit [an issue](https://github.com/hadley/stats337/issues) or [pull request](https://github.com/hadley/stats337/edit/master/README.md)!). These readings will evolve as the quarter goes by. 
 
 Many of the readings come from [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/), a join PeerJ collection and special issue of the American Statistician. Jenny Bryan and I pulled this collection together in order to publish some of the important parts of data science that were previously unpublished. Other readings are blog posts because so much of applied data science is outside the comfort zone of traditional academic fields. 
 
 Much of this course has been driven by conversations on twitter. A big thanks go to everyone who has contributed their ideas. Key threads: [ethics](https://twitter.com/hadleywickham/status/978712074434957313), [google sheets](https://twitter.com/hadleywickham/status/978401746182549504), [citation management](https://twitter.com/hadleywickham/status/978752525493915648).
 
 ### What the *&!% is data science?
-
-(Optional readings for week 1)
 
 * [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-that-s-a-good-thing-c6371885f7f6);
   Noah Lorang (2016).
@@ -76,6 +74,9 @@ Much of this course has been driven by conversations on twitter. A big thanks go
 * [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html);
   Cathy O'Neil (2016).
 
+* [Big data, machine learning, and the social sciences](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d);
+  Hannah Wallach (2014).
+
 * [A Code of Ethics for Data Science](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1);
   DJ Patil (2018).
   
@@ -136,15 +137,15 @@ Much of this course has been driven by conversations on twitter. A big thanks go
 
 ## Grading
 
-This is a discussion based class so the majority of your final grade will come from your preparation for discussion (weekly 1-page responses, 30%), and your in-class participation (also 30%). This class is not meant to be self-contained, so the final component of your grade will be an annotated bibliography (40%) describing other papers that you read outside of this class. The goal of these assessments is to force you to do things that are in your own best interests, and to encourage you learn helpful workflows that will stand you in good stead outside of this class room.
+This is a discussion based class so the majority of your final grade will come from your preparation for discussion (weekly 1-page responses, 30%), and your in-class participation (also 30%). This class is not meant to be self-contained, so the final component of your grade will be an annotated bibliography (40%) describing other papers that you read outside of this class. The goal of these assessments is to force you to do things that are in your own best interests, and to encourage you learn helpful workflows that will stand you in good stead outside of this class.
 
-I have no interest in policing excuses so no late responses will be accepted, and absences from class will count as a zero for participation. That said, I also don't want one bad week to affect your final grade, so your lowest two scores will be dropped.
+I am not interested in policing excuses so no late responses will be accepted, and absences from class will count as a zero for participation. That said, I also don't want one bad week to affect your final grade, so your lowest two scores from each will be dropped.
 
 ### Responses
 
-Each week (after the first week), you need to turn in a 1-2 page written response to the papers that you read that week. The goal of response is to ensure that you've read the weekly readings, thought about them, and connected them to your existing knowledge, interests, and experience. In your response, you should briefly summarise the paper (1-2 sentences to jog your memory when you re-read your notes), and then focus on _your_ response to the paper. How did it make you feel? What questions were you left with? What do you think it got wrong? If you found one of the readings to be particularly thought provoking, feel free to devote your entire response to that paper.
+Each week (after the first week), you need to turn in a 1-2 page written response to the papers that you read that week. The goal of response is to ensure that you've read the weekly readings, thought about them, and connected them to your existing knowledge, interests, and experience. In your response, you should briefly summarise the paper (1-2 sentences to jog your memory when you re-read your notes), and then focus on _your_ response to the paper: How did it make you feel? What questions were you left with? What do you think it got wrong? If you found one of the readings to be particularly thought provoking, feel free to devote your entire response to that paper.
 
-Each response will be graded on the check/plus/minus system. You will get a check if you briefly summarise the readings and add your own commentary. You will get a check-plus if you synthesise the readings, and combine with outside knowledge/experience. You will get a check-minus if you only summarise the paper. (I will likely evolve these guidelines to be more concrete once I've read a few responses.)
+Each response will be graded on the check/plus/minus system. You will get a check if you briefly summarise the readings and add your own commentary. You will get a check-plus if you synthesize the readings, and combine them with outside knowledge/experience. You will get a check-minus if you only summarise the paper. (I will likely evolve these guidelines to be more concrete once I've read a few responses.)
 
 If you're not familiar with reading academic papers (or you want to polish your skills), you might want to read these guidelines from [Jeff Leek](https://github.com/jtleek/readingpapers). I'd also highly recommend that you learn and use a citation management system. Having a system for managing citations is crucial if you plan to write a thesis.
 
