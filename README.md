@@ -20,7 +20,8 @@ Much of this course has been driven by conversations on twitter. A big thanks go
 * Optional: [Enterprise Data Analysis and Visualization: An Interview Study](https://idl.cs.washington.edu/papers/enterprise-analysis-interviews);
   Sean Kandel, Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer (2012).
 
-* Optional: [50 years of data science](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1384734);
+* Optional: [50 years of data science](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1384734)
+  ([OA preprint](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)]);
   David Donoho (2017). This is discussion paper and a number of notable 
   statisticians have contributed commentary. Make sure to read some of these
   as well.
@@ -72,13 +73,22 @@ Much of this course has been driven by conversations on twitter. A big thanks go
 
 ### Ethics
 
-* [A Code of Ethics for Data Science](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1);
-  DJ Patil (2018).
-  
 * [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html);
   Cathy O'Neil (2016).
 
+* [A Code of Ethics for Data Science](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1);
+  DJ Patil (2018).
+  
+* [An ethical code can’t be about ethics](https://towardsdatascience.com/an-ethical-code-cant-be-about-ethics-66acaea6f16f);
+  Schaun Wheeler (2018).
+
+* [Ethical Guidelines for Statistical Practice](http://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx);
+  Committee on Professional Ethics of the American Statistical Association (2016).
+
 ### Reproducibility
+
+* [Best practices for computational science](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/);
+  Victoria Stodden, Sheila Miguez (2014).
 
 * [How rOpenSci uses Code review to promote reproducible science](https://ropensci.org/blog/2017/09/01/nf-softwarereview/); 
   Noam Ross, Scott Chamberlain, Karthik Ram, Maëlle Salmon (2017).
@@ -120,6 +130,9 @@ Much of this course has been driven by conversations on twitter. A big thanks go
 
 * [Academic job search advice](http://matt.might.net/articles/advice-for-academic-job-hunt/);
   Matt Might (????).
+
+* [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/);
+  Caitlin Hudon (2018).
 
 ## Grading
 
