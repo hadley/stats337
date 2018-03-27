@@ -8,7 +8,7 @@ These readings reflect my personal thoughts about applied data science, and are 
 
 Many of the readings come from [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/), a join PeerJ collection and special issue of the American Statistician. Jenny Bryan and I pulled this collection together in order to publish some of the important parts of data science that were previously unpublished. Other readings are blog posts because so much of applied data science is outside the comfort zone of traditional academic fields. 
 
-Much of this course has been driven by conversations on twitter. A big thanks go to everyone who has contributed their ideas. Key threads: [ethics](https://twitter.com/hadleywickham/status/978712074434957313), [google sheets](https://twitter.com/hadleywickham/status/978401746182549504), [citation management](https://twitter.com/hadleywickham/status/978752525493915648).
+The development of much of this course has been driven by conversations on twitter. A big thanks go to everyone who has helped me out! Key threads: [classroom discussion](https://twitter.com/hadleywickham/status/964650890593538048), [ethics](https://twitter.com/hadleywickham/status/978712074434957313), [google sheets](https://twitter.com/hadleywickham/status/978401746182549504), [citation management](https://twitter.com/hadleywickham/status/978752525493915648).
 
 ### What the *&!% is data science?
 
