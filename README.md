@@ -8,7 +8,7 @@ These readings reflect my personal thoughts about applied data science, and are 
 
 Many of the readings come from [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/), a join PeerJ collection and special issue of the American Statistician. Jenny Bryan and I pulled this collection together in order to publish some of the important parts of data science that were previously unpublished. Other readings are blog posts because so much of applied data science is outside the comfort zone of traditional academic fields. 
 
-Much of this course has been driven by conversations on twitter. A big thanks go to everyone who has contributed their ideas. Key threads: [ethics](https://twitter.com/hadleywickham/status/978712074434957313), [google sheets](https://twitter.com/hadleywickham/status/978401746182549504).
+Much of this course has been driven by conversations on twitter. A big thanks go to everyone who has contributed their ideas. Key threads: [ethics](https://twitter.com/hadleywickham/status/978712074434957313), [google sheets](https://twitter.com/hadleywickham/status/978401746182549504), [citation management](https://twitter.com/hadleywickham/status/978752525493915648).
 
 ### What the *&!% is data science?
 
@@ -136,26 +136,25 @@ Much of this course has been driven by conversations on twitter. A big thanks go
 
 ## Grading
 
-* 30% written responses.
-* 30% class participation.
-* 40% annotated bibliography.
+This is a discussion based class so the majority of your final grade will come from your preparation for discussion (weekly 1-page responses, 30%), and your in-class participation (also 30%). This class is not meant to be self-contained, so the final component of your grade will be an annotated bibliography (40%) describing other papers that you read outside of this class. The goal of these assessments is to force you to do things that are in your own best interests, and to encourage you learn helpful workflows that will stand you in good stead outside of this class room.
 
-Your lowest two scores will be dropped. No late responses will be accepted.
+I have no interest in policing excuses so no late responses will be accepted, and absences from class will count as a zero for participation. That said, I also don't want one bad week to affect your final grade, so your lowest two scores will be dropped.
 
 ### Responses
 
-* [Reading academic papers](https://github.com/jtleek/readingpapers);
-  Jeff Leek (2016).
-  
-* [How to peer review](http://matt.might.net/articles/how-to-peer-review/)
+Each week (after the first week), you need to turn in a 1-2 page written response to the papers that you read that week. The goal of response is to ensure that you've read the weekly readings, thought about them, and connected them to your existing knowledge, interests, and experience. In your response, you should briefly summarise the paper (1-2 sentences to jog your memory when you re-read your notes), and then focus on _your_ response to the paper. How did it make you feel? What questions were you left with? What do you think it got wrong? If you found one of the readings to be particularly thought provoking, feel free to devote your entire response to that paper.
 
-* Citation management system.
+Each response will be graded on the check/plus/minus system. You will get a check if you briefly summarise the readings and add your own commentary. You will get a check-plus if you synthesise the readings, and combine with outside knowledge/experience. You will get a check-minus if you only summarise the paper. (I will likely evolve these guidelines to be more concrete once I've read a few responses.)
 
-<!-- In lieu of written response for week 1, please fill out -->
+If you're not familiar with reading academic papers (or you want to polish your skills), you might want to read these guidelines from [Jeff Leek](https://github.com/jtleek/readingpapers). I'd also highly recommend that you learn and use a citation management system. Having a system for managing citations is crucial if you plan to write a thesis.
 
 ### Participation
 
+This is an discussion class so your classroom participation is essential. But don't worry if you're an introvert, shy, or English is your second language: there will be plenty of opportunities to participate that don't require verbal agility. In this class, I'll be drawing on the techniques described in [The Discussion Book](http://a.co/dar4MT1) by Stephen D. Brookfield and Stephen Preskill to make sure that everyone gets a chance to participate. I'll also collect regular feedback to make sure that everything is goind well.
+
 ### Annoted bibliography.
+
+Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. More details closer to the time.
 
 ## License
 
