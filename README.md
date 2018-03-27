@@ -1,27 +1,29 @@
 # Stats 337: Readings in Applied Data Science
 
-[Stats 337](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=stats+337&collapse=%2C2%2C) is a small discussion class available to Stanford students in Spring 2018. In this class you will read 3-4 papers (or equivalent) per week, write a brief response, and then we'll discuss the papers (and underlying ideas) in class.
+[Stats 337](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=stats+337&collapse=%2C2%2C) is a small discussion class available to Stanford students in Spring 2018. In this class you will read 3-4 papers (or equivalent) per week, write a brief response, and then we'll discuss the papers (and related ideas) in class.
 
 ## Readings
 
 These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated. It is not a systematic attempt to survey the field. That said, if you think there's something major that I've missed, please feel free to submit [an issue](https://github.com/hadley/stats337/issues) or [pull request](https://github.com/hadley/stats337/edit/master/README.md)!). It's likely that these readings will evolve as the quarter goes by. 
 
-Many of the readings come from [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/), a join PeerJ collection and special issue of the American Statistician. Jenny Bryan and I pulled this collection together in order to publish some of the important parts of data science that were previously unpublished.
+Many of the readings come from [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/), a join PeerJ collection and special issue of the American Statistician. Jenny Bryan and I pulled this collection together in order to publish some of the important parts of data science that were previously unpublished. Other readings are blog posts because so much of applied data science is outside the comfort zone of traditional academic fields. 
+
+Much of this course has been driven by conversations on twitter. A big thanks go to everyone who has contributed their ideas. Key threads: [ethics](https://twitter.com/hadleywickham/status/978712074434957313), [google sheets](https://twitter.com/hadleywickham/status/978401746182549504).
 
 ### What the *&!% is data science?
 
-* [Enterprise Data Analysis and Visualization: An Interview Study](https://idl.cs.washington.edu/papers/enterprise-analysis-interviews);
-  Sean Kandel, Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer (2012).
+(Optional readings for week 1)
 
 * [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-that-s-a-good-thing-c6371885f7f6);
   Noah Lorang (2016).
 
-* [50 years of data science](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1384734);
+* Optional: [Enterprise Data Analysis and Visualization: An Interview Study](https://idl.cs.washington.edu/papers/enterprise-analysis-interviews);
+  Sean Kandel, Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer (2012).
+
+* Optional: [50 years of data science](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1384734);
   David Donoho (2017). This is discussion paper and a number of notable 
   statisticians have contributed commentary. Make sure to read some of these
   as well.
-
-<!-- In lieu of written response for week 1, please fill out -->
 
 ### Data collection and collaboration
 
@@ -30,6 +32,9 @@ Many of the readings come from [Practical Data Science for Stats](https://peerj.
 
 * [Data organization in spreadsheets](https://peerj.com/preprints/3183/);
   Karl W Broman, Kara Woo (2017).
+  
+* [Best practices for using google sheets in your data project](https://matthewlincoln.net/2018/03/26/best-practices-for-using-google-sheets-in-your-data-project.html);
+  Matthew Lincoln (2018).
 
 ### Software engineering
 
@@ -39,10 +44,16 @@ Many of the readings come from [Practical Data Science for Stats](https://peerj.
 * [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/);
   Jennifer Bryan (2017).
 
+* [Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510);
+  Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal (2017).
+
 ### DevOps
 
 * [Opinionated analysis development](https://peerj.com/preprints/3210/);
   Hillary Parker (2017)
+
+* [An introduction to Docker for reproducible research, with examples from the R environment](https://arxiv.org/abs/1410.0846); 
+  Carl Boettiger (2014).
 
 * [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google.com/pubs/pub43146.html);
   D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, 
@@ -59,12 +70,29 @@ Many of the readings come from [Practical Data Science for Stats](https://peerj.
 * [Teaching stats for data science](https://peerj.com/preprints/3205/);
   Danny Kaplan (2017).
 
+### Ethics
+
+* [A Code of Ethics for Data Science](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1);
+  DJ Patil (2018).
+  
+* [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html);
+  Cathy O'Neil (2016).
+
 ### Reproducibility
 
+* [How rOpenSci uses Code review to promote reproducible science](https://ropensci.org/blog/2017/09/01/nf-softwarereview/); 
+  Noam Ross, Scott Chamberlain, Karthik Ram, Maëlle Salmon (2017).
 
-### Marketing
+### Workflow
 
-* [Marketing for data science](https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55). Erik Oberg (2018).
+* [The plain person's guide to plain text social science](http://plain-text.co);
+  Kieran Healy (2016).
+
+* [Open notebook history](http://wcm1.web.rice.edu/open-notebook-history.html);
+  Caleb Daniels (2013).
+
+* Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
+  Jeff Leek (2016).
 
 ### Industry
 
@@ -80,12 +108,18 @@ Many of the readings come from [Practical Data Science for Stats](https://peerj.
 * [Data science at Instacart](https://tech.instacart.com/data-science-at-instacart-dabbd2d3f279);
   Jeremy Stanley (2017).
 
+* [.rprofile: Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/);
+  Kelly O'Briant (2017)
+
+* [Marketing for data science](https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55). Erik Oberg (2018).
+
 ### Career
 
 * [What it's like to be on the data science job market](http://treycausey.com/data_science_interviews.html);
   Trey Causey (2016?)
 
-### ???
+* [Academic job search advice](http://matt.might.net/articles/advice-for-academic-job-hunt/);
+  Matt Might (????).
 
 ## Grading
 
@@ -96,6 +130,15 @@ Many of the readings come from [Practical Data Science for Stats](https://peerj.
 Your lowest two scores will be dropped. No late responses will be accepted.
 
 ### Responses
+
+* [Reading academic papers](https://github.com/jtleek/readingpapers);
+  Jeff Leek (2016).
+  
+* [How to peer review](http://matt.might.net/articles/how-to-peer-review/)
+
+* Citation management system.
+
+<!-- In lieu of written response for week 1, please fill out -->
 
 ### Participation
 
