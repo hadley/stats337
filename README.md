@@ -86,6 +86,9 @@ The development of much of this course has been driven by conversations on twitt
 * [Ethical Guidelines for Statistical Practice](http://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx);
   Committee on Professional Ethics of the American Statistical Association (2016).
 
+* [Journalism as a Professional Model for Data Science](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/);
+  Brian C. Keegan (2016)
+
 ### Reproducibility
 
 * [Best practices for computational science](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/);
