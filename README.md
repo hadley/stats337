@@ -153,7 +153,7 @@ Each week (after the first week), you need to turn in a 1-2 page written respons
 
 Each response will be graded on the check/plus/minus system. You will get a check if you briefly summarise the readings and add your own commentary. You will get a check-plus if you synthesize the readings, and combine them with outside knowledge/experience. You will get a check-minus if you only summarise the paper. (I will likely evolve these guidelines to be more concrete once I've read a few responses.)
 
-If you're not familiar with reading academic papers (or you want to polish your skills), you might want to read these guidelines from [Jeff Leek](https://github.com/jtleek/readingpapers). I'd also highly recommend that you learn and use a citation management system. Having a system for managing citations is crucial if you plan to write a thesis. If you don't have an existing system, start by reading the advice of [W. Caleb McDaneil](http://wcm1.web.rice.edu/plain-text-citations.html). 
+If you're not familiar with reading academic papers (or you want to polish your skills), you might want to read these guidelines from [Jeff Leek](https://github.com/jtleek/readingpapers). I'd also highly recommend that you learn and use a citation management system. Having a system for managing citations is crucial if you plan to write a thesis. If you don't have an existing system, start by reading the advice of [Caleb McDaniel](http://wcm1.web.rice.edu/plain-text-citations.html). 
 
 ### Participation
 
