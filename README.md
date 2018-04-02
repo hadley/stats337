@@ -4,7 +4,7 @@
 
 ## Readings
 
-These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated. It is not a systematic attempt to survey the field. That said, if you think there's something major that I've missed, please feel free to submit [an issue](https://github.com/hadley/stats337/issues) or [pull request](https://github.com/hadley/stats337/edit/master/README.md)!). These readings will evolve as the quarter goes by. 
+These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated. It is not a systematic attempt to survey the field. That said, if you think there's something major that I've missed, please feel free to submit [an issue](https://github.com/hadley/stats337/issues) (or [pull request](https://github.com/hadley/stats337/edit/master/README.md)!). These readings will evolve as the quarter goes by. 
 
 Many of the readings come from [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/), a join PeerJ collection and special issue of the American Statistician. Jenny Bryan and I pulled this collection together in order to publish some of the important parts of data science that were previously unpublished. Other readings are blog posts because so much of applied data science is outside the comfort zone of traditional academic fields. 
 
@@ -19,7 +19,7 @@ The development of much of this course has been driven by conversations on twitt
   Sean Kandel, Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer (2012).
 
 * Optional: [50 years of data science](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1384734)
-  ([OA preprint](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)]);
+  ([OA preprint](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf));
   David Donoho (2017). This is discussion paper and a number of notable 
   statisticians have contributed commentary. Make sure to read some of these
   as well.
@@ -157,7 +157,7 @@ If you're not familiar with reading academic papers (or you want to polish your 
 
 ### Participation
 
-This is an discussion class so your classroom participation is essential. But don't worry if you're an introvert, shy, or English is your second language: there will be plenty of opportunities to participate that don't require verbal agility. In this class, I'll be drawing on the techniques described in [The Discussion Book](http://a.co/dar4MT1) by Stephen D. Brookfield and Stephen Preskill to make sure that everyone gets a chance to participate. I'll also collect regular feedback to make sure that everything is goind well.
+This is a discussion class so your classroom participation is essential. But don't worry if you're an introvert, shy, or English is your second language: there will be plenty of opportunities to participate that don't require verbal agility. In this class, I'll be drawing on the techniques described in [The Discussion Book](http://a.co/dar4MT1) by Stephen D. Brookfield and Stephen Preskill to make sure that everyone gets a chance to participate. I'll also collect regular feedback to make sure that everything is going well.
 
 ### Annoted bibliography.
 
