@@ -159,7 +159,7 @@ If you're not familiar with reading academic papers (or you want to polish your 
 
 This is a discussion class so your classroom participation is essential. But don't worry if you're an introvert, shy, or English is your second language: there will be plenty of opportunities to participate that don't require verbal agility. In this class, I'll be drawing on the techniques described in [The Discussion Book](http://a.co/dar4MT1) by Stephen D. Brookfield and Stephen Preskill to make sure that everyone gets a chance to participate. I'll also collect regular feedback to make sure that everything is going well.
 
-### Annoted bibliography.
+### Annotated bibliography.
 
 Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. More details closer to the time.
 
