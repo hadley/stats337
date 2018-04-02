@@ -103,7 +103,7 @@ The development of much of this course has been driven by conversations on twitt
   Kieran Healy (2016).
 
 * [Open notebook history](http://wcm1.web.rice.edu/open-notebook-history.html);
-  Caleb Daniels (2013).
+  Caleb McDaniel (2013).
 
 * Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
   Jeff Leek (2016).
