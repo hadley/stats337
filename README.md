@@ -35,6 +35,9 @@ The development of much of this course has been driven by conversations on twitt
 * [Best practices for using google sheets in your data project](https://matthewlincoln.net/2018/03/26/best-practices-for-using-google-sheets-in-your-data-project.html);
   Matthew Lincoln (2018).
 
+* Bonus: [Modeling as a core component of structuring data](https://iase-web.org/documents/SERJ/SERJ16(2)_Konold.pdf);
+  Clifford Konold, William Finzer, Kozoom Kreetong (2017)
+
 ### Software engineering
 
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html);
