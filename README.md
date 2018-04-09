@@ -168,7 +168,9 @@ This is a discussion class so your classroom participation is essential. But don
 
 ### Annotated bibliography.
 
-Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. More details closer to the time.
+Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. You annoted bibliography should be organised around a theme, which you should introduce at the beginning with 2-3 paragraphs.
+
+More details closer to the time.
 
 (See [citation tracing](http://www.raulpacheco.org/2018/02/forward-citation-tracing-and-backwards-citation-tracing-in-literature-reviews/))
 
