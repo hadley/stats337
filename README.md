@@ -24,6 +24,8 @@ The development of much of this course has been driven by conversations on twitt
   statisticians have contributed commentary. Make sure to read some of these
   as well.
 
+[In-class resources](week-01/)
+
 ### Data collection and collaboration
 
 * [Tidy data](https://www.jstatsoft.org/article/view/v059i10/);
