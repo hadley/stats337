@@ -1,0 +1,8 @@
+---
+output: github_document
+---
+
+```{r, results = "asis", echo = FALSE}
+fig_files <- dir(pattern = "jpg$") 
+cat(paste0("* ", fig_files, " ![](", fig_files, ")\n"))
+```
