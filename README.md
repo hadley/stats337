@@ -38,6 +38,8 @@ The development of much of this course has been driven by conversations on twitt
 * Bonus: [Modeling as a core component of structuring data](https://iase-web.org/documents/SERJ/SERJ16(2)_Konold.pdf);
   Clifford Konold, William Finzer, Kozoom Kreetong (2017)
 
+Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxuBU8z1).
+
 ### Software engineering
 
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html);
