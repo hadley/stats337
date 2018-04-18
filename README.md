@@ -140,7 +140,7 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 ### Career
 
 * [What it's like to be on the data science job market](http://treycausey.com/data_science_interviews.html);
-  Trey Causey (2016?)
+  Trey Causey (2015)
 
 * [Academic job search advice](http://matt.might.net/articles/advice-for-academic-job-hunt/);
   Matt Might (????).
