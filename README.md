@@ -56,6 +56,8 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 * [Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510);
   Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal (2017).
 
+[Collaborative google doc](week-03/google-doc.md)
+
 ### DevOps
 
 * [Opinionated analysis development](https://peerj.com/preprints/3210/);
