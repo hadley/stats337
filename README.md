@@ -81,6 +81,8 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 * [Teaching stats for data science](https://peerj.com/preprints/3205/);
   Danny Kaplan (2017).
 
+* [Ten quick tips for teaching programming](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023); Neil C. C. Brown, Greg Wilson (2018).
+
 ### Ethics
 
 * [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html);
@@ -108,6 +110,8 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 
 * [How rOpenSci uses Code review to promote reproducible science](https://ropensci.org/blog/2017/09/01/nf-softwarereview/); 
   Noam Ross, Scott Chamberlain, Karthik Ram, Maëlle Salmon (2017).
+  
+* [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl); Matthew Rahtz (2018).
 
 ### Workflow
 
