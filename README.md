@@ -110,6 +110,9 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 
 * [How rOpenSci uses Code review to promote reproducible science](https://ropensci.org/blog/2017/09/01/nf-softwarereview/); 
   Noam Ross, Scott Chamberlain, Karthik Ram, Maëlle Salmon (2017).
+
+* [A practical guide for transparency in psychological science](https://psyarxiv.com/rtygm/);
+  Olivier Klein, Tom Hardwicke, Frederik Aust, Johannes Breuer, Henrik Danielsson, Alicia Hofelich Mohr, Hans IJzerman, Gustav Nilsonne, Wolf Vanpaemel, Michael Frank (2018).
   
 * [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl); Matthew Rahtz (2018).
 
