@@ -143,6 +143,8 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 
 * [Marketing for data science](https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55). Erik Oberg (2018).
 
+* Optional: [What it means to be a Senior Data Scientist](https://peadarcoyle.wordpress.com/2018/03/17/what-does-it-mean-to-be-a-senior-data-scientist/). Peadar Coyle (2018)
+
 ### Career
 
 * [What it's like to be on the data science job market](http://treycausey.com/data_science_interviews.html);
