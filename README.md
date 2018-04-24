@@ -70,6 +70,8 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
   D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, 
   Dietmar Ebner, Vinay Chaudhary, Michael Young (2015).
 
+[Collaborative google doc](week-04/google-doc.md)
+
 ### Teaching
 
 * [The Introductory Statistics Course: A Ptolemaic Curriculum?](https://escholarship.org/uc/item/6hb3k0nz).
