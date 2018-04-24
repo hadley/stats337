@@ -98,6 +98,9 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
   
 * [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl); Matthew Rahtz (2018).
 
+* Bonus: [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org);
+  Justin Kitzes, Daniel Turek, Fatma Deniz (2018).
+
 ### Ethics (May 14)
 
 * [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html);
