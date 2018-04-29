@@ -66,7 +66,7 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 * [An introduction to Docker for reproducible research, with examples from the R environment](https://arxiv.org/abs/1410.0846); 
   Carl Boettiger (2014).
 
-* [Hidden Technical Debt in Machine Learning Systems](https://research.google.com/pubs/pub43146.html);
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf);
   D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, 
   Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-Francois Crespo, Dan Dennison (2015).
 
