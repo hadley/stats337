@@ -75,7 +75,7 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 ### Teaching (Apr 30)
 
 * [The Introductory Statistics Course: A Ptolemaic Curriculum?](https://escholarship.org/uc/item/6hb3k0nz).
-  George W Cobb (2013).
+  George W Cobb (2007).
 
 * [The democratization of data science education](https://peerj.com/preprints/3195/);
   Sean Kross, Roger D Peng, Brian S Caffo, Ira Gooding, Jeffrey T Leek (2017).
