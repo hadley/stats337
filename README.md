@@ -135,17 +135,6 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 * [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/);
   Caitlin Hudon (2018).
 
-### Workflow
-
-* [The plain person's guide to plain text social science](http://plain-text.co);
-  Kieran Healy (2016).
-
-* [Open notebook history](http://wcm1.web.rice.edu/open-notebook-history.html);
-  Caleb McDaniel (2013).
-
-* Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
-  Jeff Leek (2016).
-
 ### Industry
 
 * [Doing data science at twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6);
@@ -164,6 +153,17 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
   Kelly O'Briant (2017)
 
 * [Marketing for data science](https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55). Erik Oberg (2018).
+
+### Workflow
+
+* [The plain person's guide to plain text social science](http://plain-text.co);
+  Kieran Healy (2016).
+
+* [Open notebook history](http://wcm1.web.rice.edu/open-notebook-history.html);
+  Caleb McDaniel (2013).
+
+* Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
+  Jeff Leek (2016).
 
 ## Grading
 
