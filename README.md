@@ -185,11 +185,42 @@ This is a discussion class so your classroom participation is essential. But don
 
 ### Annotated bibliography.
 
-Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. You annoted bibliography should be organised around a theme, which you should introduce at the beginning with 2-3 paragraphs.
+Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. (See [citation tracing](http://www.raulpacheco.org/2018/02/forward-citation-tracing-and-backwards-citation-tracing-in-literature-reviews/))
 
-More details closer to the time.
+Due June 6 (electronically)
 
-(See [citation tracing](http://www.raulpacheco.org/2018/02/forward-citation-tracing-and-backwards-citation-tracing-in-literature-reviews/))
+There are three components to the bibliography:
+
+* Executive summary (25%). Introduce the overall theme of your bibligraphy in 1-2 
+  paragraphs. Then use 1-2 pages to synthesise the most important or interesting 
+  from your annotated bibliography.
+
+* Top 3 (25%). List the three papers that you would most highlighly recommend and
+  describe briefly why.
+  
+* Bibliography (50%). List all the papers you have read with a proper reference
+  and any notes you find helpful.
+  
+Each component will be graded 1 (C), 2 (B), or 3 (A):
+
+* Executive summary: 
+  * 3: 
+  * 2:
+  * 1:
+
+* Top 3:
+  * 3: Your description of the top 3 papers makes me want to run out and
+    read them immediately, and you make that easy with impeccable citations
+    and links to pdfs
+  
+  * 2: 
+  
+  * 1: You have listed 3 papers and briefly described why they are interesting.
+
+* Bibliography:
+  * 1: 6-10 papers
+  * 2: 11-16 papers
+  * 3: >25 papers
 
 ## License
 
