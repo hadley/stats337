@@ -10,7 +10,7 @@ Many of the readings come from [Practical Data Science for Stats](https://peerj.
 
 The development of much of this course has been driven by conversations on twitter. A big thanks go to everyone who has helped me out! Key threads: [classroom discussion](https://twitter.com/hadleywickham/status/964650890593538048), [ethics](https://twitter.com/hadleywickham/status/978712074434957313), [google sheets](https://twitter.com/hadleywickham/status/978401746182549504), [citation management](https://twitter.com/hadleywickham/status/978752525493915648).
 
-### What the *&!% is data science?
+### What the *&!% is data science? (Apr 2)
 
 * [Data scientists mostly just do arithmetic and that’s a good thing](https://m.signalvnoise.com/data-scientists-mostly-just-do-arithmetic-and-that-s-a-good-thing-c6371885f7f6);
   Noah Lorang (2016).
@@ -26,7 +26,7 @@ The development of much of this course has been driven by conversations on twitt
 
 [In-class resources](week-01/)
 
-### Data collection and collaboration
+### Data collection and collaboration (Apr 9)
 
 * [Tidy data](https://www.jstatsoft.org/article/view/v059i10/);
   Hadley Wickham (2013).
@@ -45,7 +45,7 @@ The development of much of this course has been driven by conversations on twitt
 
 Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxuBU8z1).
 
-### Software engineering
+### Software engineering (Apr 16)
 
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html);
   Trey Causey (2015).
@@ -58,7 +58,7 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 
 [Collaborative google doc](week-03/google-doc.md)
 
-### DevOps
+### DevOps (Apr 23)
 
 * [Opinionated analysis development](https://peerj.com/preprints/3210/);
   Hillary Parker (2017)
@@ -70,10 +70,12 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
   D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, 
   Dietmar Ebner, Vinay Chaudhary, Michael Young (2015).
 
-### Teaching
+[Collaborative google doc](week-04/google-doc.md)
+
+### Teaching (Apr 30)
 
 * [The Introductory Statistics Course: A Ptolemaic Curriculum?](https://escholarship.org/uc/item/6hb3k0nz).
-  George W Cobb (2013).
+  George W Cobb (2007).
 
 * [The democratization of data science education](https://peerj.com/preprints/3195/);
   Sean Kross, Roger D Peng, Brian S Caffo, Ira Gooding, Jeffrey T Leek (2017).
@@ -83,7 +85,23 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 
 * [Ten quick tips for teaching programming](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023); Neil C. C. Brown, Greg Wilson (2018).
 
-### Ethics
+### Reproducibility (May 7)
+
+* [Best practices for computational science](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/);
+  Victoria Stodden, Sheila Miguez (2014).
+
+* [How rOpenSci uses Code review to promote reproducible science](https://ropensci.org/blog/2017/09/01/nf-softwarereview/); 
+  Noam Ross, Scott Chamberlain, Karthik Ram, Maëlle Salmon (2017).
+
+* [A practical guide for transparency in psychological science](https://psyarxiv.com/rtygm/);
+  Olivier Klein, Tom Hardwicke, Frederik Aust, Johannes Breuer, Henrik Danielsson, Alicia Hofelich Mohr, Hans IJzerman, Gustav Nilsonne, Wolf Vanpaemel, Michael Frank (2018).
+  
+* [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl); Matthew Rahtz (2018).
+
+* Bonus: [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org);
+  Justin Kitzes, Daniel Turek, Fatma Deniz (2018).
+
+### Ethics (May 14)
 
 * [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html);
   Cathy O'Neil (2016).
@@ -103,26 +121,19 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 * [Journalism as a Professional Model for Data Science](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/);
   Brian C. Keegan (2016)
 
-### Reproducibility
+### Career (May 21)
 
-* [Best practices for computational science](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/);
-  Victoria Stodden, Sheila Miguez (2014).
+* [What it's like to be on the data science job market](http://treycausey.com/data_science_interviews.html);
+  Trey Causey (2015)
 
-* [How rOpenSci uses Code review to promote reproducible science](https://ropensci.org/blog/2017/09/01/nf-softwarereview/); 
-  Noam Ross, Scott Chamberlain, Karthik Ram, Maëlle Salmon (2017).
-  
-* [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl); Matthew Rahtz (2018).
+* [Academic job search advice](http://matt.might.net/articles/advice-for-academic-job-hunt/);
+  Matt Might (????).
 
-### Workflow
+* [Importance of sponsorship](https://robinsones.github.io/The-Importance-of-Sponsorship/);
+  Emily Robinson (2018).
 
-* [The plain person's guide to plain text social science](http://plain-text.co);
-  Kieran Healy (2016).
-
-* [Open notebook history](http://wcm1.web.rice.edu/open-notebook-history.html);
-  Caleb McDaniel (2013).
-
-* Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
-  Jeff Leek (2016).
+* [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/);
+  Caitlin Hudon (2018).
 
 ### Industry
 
@@ -143,21 +154,25 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 
 * [Marketing for data science](https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55). Erik Oberg (2018).
 
+
 * Optional: [What it means to be a Senior Data Scientist](https://peadarcoyle.wordpress.com/2018/03/17/what-does-it-mean-to-be-a-senior-data-scientist/). Peadar Coyle (2018)
 
 ### Career
 
 * [What it's like to be on the data science job market](http://treycausey.com/data_science_interviews.html);
   Trey Causey (2015)
+=======
+### Workflow
 
-* [Academic job search advice](http://matt.might.net/articles/advice-for-academic-job-hunt/);
-  Matt Might (????).
 
-* [Importance of sponsorship](https://robinsones.github.io/The-Importance-of-Sponsorship/);
-  Emily Robinson (2018).
+* [The plain person's guide to plain text social science](http://plain-text.co);
+  Kieran Healy (2016).
 
-* [Imposter syndrome in data science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/);
-  Caitlin Hudon (2018).
+* [Open notebook history](http://wcm1.web.rice.edu/open-notebook-history.html);
+  Caleb McDaniel (2013).
+
+* Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
+  Jeff Leek (2016).
 
 ## Grading
 
@@ -179,11 +194,42 @@ This is a discussion class so your classroom participation is essential. But don
 
 ### Annotated bibliography.
 
-Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. You annoted bibliography should be organised around a theme, which you should introduce at the beginning with 2-3 paragraphs.
+Your final project will be an annotated bibliography containing at least 20 papers or blog posts related to data science that we did not cover in this course. (See [citation tracing](http://www.raulpacheco.org/2018/02/forward-citation-tracing-and-backwards-citation-tracing-in-literature-reviews/))
 
-More details closer to the time.
+Due June 6 (electronically)
 
-(See [citation tracing](http://www.raulpacheco.org/2018/02/forward-citation-tracing-and-backwards-citation-tracing-in-literature-reviews/))
+There are three components to the bibliography:
+
+* Executive summary (25%). Introduce the overall theme of your bibligraphy in 1-2 
+  paragraphs. Then use 1-2 pages to synthesise the most important or interesting 
+  from your annotated bibliography.
+
+* Top 3 (25%). List the three papers that you would most highlighly recommend and
+  describe briefly why.
+  
+* Bibliography (50%). List all the papers you have read with a proper reference
+  and any notes you find helpful.
+  
+Each component will be graded 1 (C), 2 (B), or 3 (A):
+
+* Executive summary: 
+  * 3: 
+  * 2:
+  * 1:
+
+* Top 3:
+  * 3: Your description of the top 3 papers makes me want to run out and
+    read them immediately, and you make that easy with impeccable citations
+    and links to pdfs
+  
+  * 2: 
+  
+  * 1: You have listed 3 papers and briefly described why they are interesting.
+
+* Bibliography:
+  * 1: 6-10 papers
+  * 2: 11-16 papers
+  * 3: >25 papers
 
 ## License
 
