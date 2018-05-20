@@ -191,11 +191,11 @@ Due June 6 (electronically)
 
 There are three components to the bibliography:
 
-* Executive summary (25%). Introduce the overall theme of your bibligraphy in 1-2 
+* Executive summary (25%). Introduce the overall theme of your bibliography in 1-2 
   paragraphs. Then use 1-2 pages to synthesise the most important or interesting 
   from your annotated bibliography.
 
-* Top 3 (25%). List the three papers that you would most highlighly recommend and
+* Top 3 (25%). List the three papers that you would most highly recommend and
   describe briefly why.
   
 * Bibliography (50%). List all the papers you have read with a proper reference
