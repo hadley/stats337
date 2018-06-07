@@ -1,6 +1,6 @@
 ---
-title: "Stats 337, Applied Readings in Data Science"
-output: html_document
+title: "Stats 337, Applied Readings in Data Science (Spring 2018)"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -246,7 +246,7 @@ of postmortem write-ups.
 
 ******
 
-#### Articles about "cases for data literacy"
+#### Articles about "a case for data literacy"
 I didn't go with this topic, but in case this is helpful to anyone...! 
 
 **General:**
