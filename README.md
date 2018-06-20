@@ -172,9 +172,33 @@ Many students in the spring 2018 elected to share their final annotated bibliogr
 * [Blameless post-mortems](annotated-bibs/blameless-postmortems.md) by
   [Jennifer Wang](https://github.com/jw0506)  
 
+* [Communication and visualization](annotated-bibs/communication.pdf) 
+  by Kenneth Tay
+
+* [Connections to cognitive science](annotated-bibs/cogsci.pdf)
+  by Sara Altman.
+  
 * [Data science as an academic field](annotated-bibs/ds-academic-field.pdf) (pdf)
   by [Stephen Bates](https://github.com/stephenbates19)
 
+* [Data science in modern medicine](annotated-bibs/modern-medicine.pdf)
+  by Sean R. Zion.
+  
+* [Diversity in hiring and employment](annotated-bibs/diversity.pdf) (pdf)
+
+* [Ethics in data science](annotated-bibs/ethics.pdf) (pdf)
+
+* [Graphical advice](annotated-bibs/graphical-advice.pdf)
+  by Nick Hershey
+  
+* [Sharing analyses across research groups](annotated-bibs/sharing-analyses.pdf) 
+  by Hershel Mehta.
+
+* [Tailoring learning experiences for adults through data analytics](annotated-bibs/tailored-elearning.pdf) (pdf)
+  by Anna Khazenzon.
+
+* [Teaching data science](annotated-bibs/teaching.pdf) (pdf)
+  by Ben Stenhaug.
 
 ## Grading
 
