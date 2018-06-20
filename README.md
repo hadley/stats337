@@ -165,6 +165,17 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 * Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
   Jeff Leek (2016).
 
+## Annotated bibliographies
+
+Many students in the spring 2018 elected to share their final annotated bibliographies
+
+* [Blameless post-mortems](annotated-bibs/blameless-postmortems.md) by
+  [Jennifer Wang](https://github.com/jw0506)  
+
+* [Data science as an academic field](annotated-bibs/ds-academic-field.pdf) (pdf)
+  by [Stephen Bates](https://github.com/stephenbates19)
+
+
 ## Grading
 
 This is a discussion based class so the majority of your final grade will come from your preparation for discussion (weekly 1-page responses, 30%), and your in-class participation (also 30%). This class is not meant to be self-contained, so the final component of your grade will be an annotated bibliography (40%) describing other papers that you read outside of this class. The goal of these assessments is to force you to do things that are in your own best interests, and to encourage you learn helpful workflows that will stand you in good stead outside of this class.
